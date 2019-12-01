@@ -1,4 +1,4 @@
-FROM pschuller/arduino-base
+FROM pschuller/arduino-esp
 
 LABEL maintainer="Peter Schuller <ps@pzzz.de>"
 
